@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello,folks! 👋
 
 <!--
 **shakeerth10/shakeerth10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name Mohammed Shakeer.T and I'm a aspirant Data Analyst from Bangalore.I'm currently looking a job in a company on Data related domain that driven skills like Python.Pandas,Numpy,Matplotlib,SQL,Power Bi,Advanced excel,Statastics.
