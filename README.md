@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name Mohammed Shakeer.T and I'm a aspirant Data Analyst from Bangalore.I'm currently looking a job in a company on Data related domain that driven skills like Python.Pandas,Numpy,Matplotlib,SQL,Power Bi,Advanced excel,Statastics.
+My name Mohammed Shakeer.T and I,m a Diligent Data analyst with over  2.6+ year's of hands-on experience in Data Cleaning, analyzing and visualization, with a strong background in MySQL, Python, Pandas, NumPy, Matplotlib, Data warehouse, Google sheets, Statistics, GitHub, Power BI and Advanced excel at extracting, analyzing, and visualizing data to identify patterns, trends, and opportunities.
+As of now I'm eager to upskill myself for this Data driven World, and I'm confident that with my enthusiasm and dedication I will be an asset to any organization.
