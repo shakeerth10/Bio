@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My name Mohammed Shakeer.T and i'm a diligent Data analyst with over  2.6+ year's of hands-on experience in Data Cleaning, analyzing and visualization, with a strong background in MySQL, Python, Pandas, NumPy, Matplotlib, Data warehouse, Google sheets, Statistics, GitHub, Power BI and Advanced excel at extracting, analyzing, and visualizing data to identify patterns, trends, and opportunities.
+- My name Mohammed Shakeer.T and i'm a diligent Data analyst with having a hands-on experience in Data Cleaning, analyzing and visualization, with a strong background in MySQL, Python, Pandas, NumPy, Matplotlib, Data warehouse, Google sheets, Statistics, GitHub, Power BI and Advanced excel at extracting, analyzing, and visualizing data to identify patterns, trends, and opportunities.
 
 - As of now I'm eager to upskill myself for this Data driven World, and I'm confident that with my enthusiasm and dedication I will be an asset to any organization.
